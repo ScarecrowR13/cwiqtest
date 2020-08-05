@@ -1,0 +1,2 @@
+# cwiqtest
+Codewars - IQ Test
